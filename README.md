@@ -1,2 +1,2 @@
 # OIBISIP
-Exploratory Data Analysis on a retail dataset to uncover customer behavior, sales trends, and segments. Tools: Python, Pandas, Seaborn, Matplotlib. Includes visual insights and recommendations to support data-driven marketing decisions.
+Hands-on data analytics projects focused on real-world datasets. Includes data cleaning, EDA, visualization, and actionable insights using Python, Pandas, Matplotlib, Seaborn. Aimed at solving business problems through data-driven analysis.
